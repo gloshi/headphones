@@ -1,0 +1,140 @@
+
+.gloshi-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'gloshi-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tom-apple-logo:before {
+  content: "\e900";
+}
+.tom-battery:before {
+  content: "\e901";
+}
+.tom-box-closed:before {
+  content: "\e902";
+}
+.tom-cart:before {
+  content: "\e903";
+  color: #fff;
+}
+.tom-credit-card:before {
+  content: "\e904";
+}
+.tom-customer-service:before {
+  content: "\e905";
+}
+.tom-earphones:before {
+  content: "\e906";
+}
+.tom-facebook-logo:before {
+  content: "\e907";
+}
+.tom-headphones1:before {
+  content: "\e908";
+}
+.tom-headphones2:before {
+  content: "\e909";
+}
+.tom-headphones .path1:before {
+  content: "\e90a";
+  color: rgb(255, 255, 255);
+}
+.tom-headphones .path2:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(1, 4, 11);
+}
+.tom-headphones .path3:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(1, 4, 11);
+}
+.tom-headphones .path4:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(1, 4, 11);
+}
+.tom-headphones .path5:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(4, 212, 198);
+}
+.tom-headphones .path6:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(1, 4, 11);
+  opacity: 0.2;
+}
+.tom-headphones .path7:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(4, 212, 198);
+}
+.tom-headphones .path8:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(1, 4, 11);
+  opacity: 0.2;
+}
+.tom-headphones-side-view:before {
+  content: "\e912";
+}
+.tom-headphones-thin-outlined-tool:before {
+  content: "\e913";
+}
+.tom-headset:before {
+  content: "\e914";
+}
+.tom-instagram:before {
+  content: "\e915";
+}
+.tom-left-arrow:before {
+  content: "\e916";
+  color: #fff;
+}
+.tom-man-listening-to-music:before {
+  content: "\e917";
+}
+.tom-play-button:before {
+  content: "\e918";
+}
+.tom-right-arrow:before {
+  content: "\e919";
+  color: #fff;
+}
+.tom-search:before {
+  content: "\e91a";
+  color: #fff;
+}
+.tom-shipped:before {
+  content: "\e91b";
+}
+.tom-shopping-cart:before {
+  content: "\e91c";
+}
+.tom-soundcloud-logo:before {
+  content: "\e91d";
+}
+.tom-speaker:before {
+  content: "\e91e";
+}
+.tom-twitter-logo-on-black-background:before {
+  content: "\e91f";
+}
+.tom-user:before {
+  content: "\e920";
+  color: #fff;
+}
+.tom-youtube-logo:before {
+  content: "\e921";
+}
